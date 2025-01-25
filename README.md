@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Olá, sou Felipe Duan, estudante de Engenharia de Software na instituição de ensino superior iCEV.<br><br>- 🔭 Como profissional, busco oportunidades que permitam aplicar meus conhecimentos acadêmicos em projetos práticos, expandindo minha compreensão das tecnologias, como também, contribuindo para o sucesso de equipes multidisciplinares.<br><br>- 📚 Como estudante, desejo aprimorar minhas habilidades e meus conhecimentos em Engenharia de<br>Software, focando no desenvolvimento de software e na criação de soluções inovadoras.<br><br>- ⚡ No meu tempo livre, costumo assistir vídeos sobre programação que agreguem em meu aprendizado, bem como, foco em meus hobbies, sendo música e esportes.</p>
+<p align="left">Olá, sou Felipe Duan, estudante de Engenharia de Software na instituição de ensino superior iCEV.<br><br>- 🔭 Como profissional, busco oportunidades que permitam aplicar meus conhecimentos acadêmicos em projetos práticos, expandindo minha compreensão das tecnologias, como também, contribuindo para o sucesso de equipes multidisciplinares.<br><br>- 📚 Como estudante, desejo aprimorar minhas habilidades e meus conhecimentos em Engenharia de Software, focando no desenvolvimento de software e na criação de soluções inovadoras.<br><br>- ⚡ No meu tempo livre, costumo assistir vídeos sobre programação que agreguem em meu aprendizado, bem como, foco em meus hobbies, sendo música e esportes.</p>
 
 ###
 
