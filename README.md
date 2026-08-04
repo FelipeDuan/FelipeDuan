@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&duration=3500&pause=900&color=F97316&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Fullstack+com+olhar+para+frontend+e+backend;Performance%2C+escalabilidade+e+boas+pr%C3%A1ticas;Construindo+solu%C3%A7%C3%B5es+com+fundamento+%C3%A9+m%C3%A9todo" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&duration=3500&pause=600&color=F97316&center=true&vCenter=true&multiline=true&width=720&height=55&lines=Fullstack+com+olhar+para+frontend+e+backend;Performance%2C+escalabilidade+e+boas+pr%C3%A1ticas" alt="Typing headline" />
 </p>
 
 <p align="center">
